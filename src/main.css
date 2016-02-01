@@ -1,0 +1,16 @@
+body {
+    background-color: #0390AE;
+    font-family: arial, sans-serif;
+    height: 100%;
+    line-height: 0;
+}
+
+.container {
+    margin: 100px auto;
+    width: 600px;
+}
+
+#keyboard {
+  height: 150px;
+  width: 600px;
+}
